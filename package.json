@@ -1,6 +1,6 @@
 {
-  "name": "rescript-disable-eslint",
-  "version": "1.0.1",
+  "name": "@princed/rescript-disable-eslint",
+  "version": "2.0.0",
   "description": "Enable web worker-loader for your create-react-app project.",
   "source": "src/index.js",
   "module": "dist/rescript-disable-eslint.mjs",
